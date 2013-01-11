@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 ## ngix_php-fpm.sh
 ## Developer: Espartaco Palma (esparta@gmail.com)
 ## Date: 2013-01-10

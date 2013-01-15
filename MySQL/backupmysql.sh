@@ -6,8 +6,10 @@
 ## License: GPL
 ## Description: Procedure to backup MySQL servers
 ##     Parameters:
-##         database
-##         backupfile
+##         Host
+##         Database
+##         Backupfile
+## Usage: backupmysql localhost wordpressblog wpb20130114
 ## Tested on: Ubuntu 11.04 and Ubuntu 12.04
 
 die(){

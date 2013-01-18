@@ -34,7 +34,6 @@ service nginx start
 ## --- Install prioties,
 yum install yum-plugin-priorities
 echo "priotiry=1" >> /etc/yum.repos.d/nginx.repo
-echo "priotiry=1" >> /etc/yum.repos.d/nginx.repo
 ## PHP-fpm
 ## First, install auxiliar repositories (EPEL)
 rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
